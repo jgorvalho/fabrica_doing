@@ -1,5 +1,5 @@
 
-#Workshop: Scratch avançado para o desenvolvimento de jogos, com conversão para Javascript#
+# Workshop: Scratch avançado para o desenvolvimento de jogos, com conversão para Javascript
 
 Esta workshop é uma oficina prática na tecnologia de codificação baseada em blocos (Scratch), com jogos avançados, será introduzida e aprofundada a transição para a codificação "baseada em texto", utilizando-se Javascript (JS), num contexto de HTML, CSS – Web.
 O desenvolvimento de jogos é um “caminho” para melhorar as competências de programação, desenvolvendo-se a concepção da experiência do utilizador, concepção da história do jogo e muito raciocínio lógico. Há muitas formas de melhorar e personalizar cada jogo. 
