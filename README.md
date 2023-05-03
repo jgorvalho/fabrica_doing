@@ -1,4 +1,3 @@
-! ![image](https://user-images.githubusercontent.com/14891643/236045793-96f55d1b-2f9c-479c-83c5-3f58db0b795d.png)
 
 # Workshop: Scratch avançado para o desenvolvimento de jogos, com conversão para Javascript
 
